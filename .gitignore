@@ -2,3 +2,5 @@
 50_speakers_audio_data/
 data/
 siarec/__pycache__/
+saved_models/
+training.ipynb
