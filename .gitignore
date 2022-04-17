@@ -1,0 +1,4 @@
+.asr/
+50_speakers_audio_data/
+data/
+siarec/__pycache__/
