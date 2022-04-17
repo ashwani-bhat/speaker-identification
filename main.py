@@ -24,7 +24,7 @@ def main():
                 help='Number of sweeps over the dataset to train')
     parser.add_argument('--batch_size', '-b', type=int, default=16,
                 help='Number of images in each mini-batch')
-    parser.add_argument('--learning_rate', type=float, default=0.01,
+    parser.add_argument('--learning_rate', type=float, default=0.0001,
                 help='Learning Rate')
     parser.add_argument('--momentum', type=float, default=0.9,
                 help='Momentum')
